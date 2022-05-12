@@ -1,0 +1,46 @@
+.container{
+    padding: 100px,100px;
+    background-image: "https://qph.fs.quoracdn.net/main-qimg-d9b94c0bc1631c4edcc210a6399e4dad";
+}
+.navbar{
+    text-align: right;
+    padding: 10px 10px;
+    background-color:aliceblue;
+    margin: 5px,0px;
+}
+.header{
+    margin: 5px,10px;
+    background-color:rebeccapurple ;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+  }
+  input[type=text], input[type=password] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-weight: bold;
+  }
+  .form {
+      text-align :center
+
+  }
+  .header2{
+    text-align :center;
+    font-weight: bold;
+  }
+  
